@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100%" alt="Banner animado">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="50%" alt="Banner animado">
 </p>
 
 <h1 align="center">🚀 Guilherme Macena</h1>
