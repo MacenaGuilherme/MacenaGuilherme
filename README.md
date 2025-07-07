@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1GdRFlEbxg6jXBVT19N2tO&ust=1751995058658000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjv9-ugq44DFQAAAAAdAAAAABAE" width="50%" alt="Banner animado">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%" alt="Banner animado">
 </p>
 
 <h1 align="center">🚀 Guilherme Macena</h1>
